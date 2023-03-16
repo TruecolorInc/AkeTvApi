@@ -1,27 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "id": 2,
-      "title": "test2",
-      "author": "papertiger"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "home": {
+  "getHomeList": {
     "status": "success",
     "timestamp": 1678849873,
     "data": [
@@ -111,7 +89,7 @@
       }
     ]
   },
-  "libraryTags": {
+  "getLibraryTags": {
     "status": "success",
     "timestamp": 1678934334,
     "data": [
@@ -224,65 +202,69 @@
       }
     ]
   },
-  "libraryList": [
-    {
-      "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-      "title": "王牌校草",
-      "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
-      "tags": [
-        {
-          "id": 1,
-          "name": "穿越"
-        },
-        {
-          "id": 2,
-          "name": "爱情"
-        },
-        {
-          "id": 3,
-          "name": "校园"
-        }
-      ]
-    },
-    {
-      "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-      "title": "王牌校草",
-      "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
-      "tags": [
-        {
-          "id": 1,
-          "name": "穿越"
-        },
-        {
-          "id": 2,
-          "name": "爱情"
-        },
-        {
-          "id": 3,
-          "name": "校园"
-        }
-      ]
-    },
-    {
-      "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-      "title": "王牌校草",
-      "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
-      "tags": [
-        {
-          "id": 1,
-          "name": "穿越"
-        },
-        {
-          "id": 2,
-          "name": "爱情"
-        },
-        {
-          "id": 3,
-          "name": "校园"
-        }
-      ]
-    }
-  ],
+  "getLibraryList": {
+    "status": "success",
+    "timestamp": 1678849873,
+    "data": [
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
+        "tags": [
+          {
+            "id": 1,
+            "name": "穿越"
+          },
+          {
+            "id": 2,
+            "name": "爱情"
+          },
+          {
+            "id": 3,
+            "name": "校园"
+          }
+        ]
+      },
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
+        "tags": [
+          {
+            "id": 1,
+            "name": "穿越"
+          },
+          {
+            "id": 2,
+            "name": "爱情"
+          },
+          {
+            "id": 3,
+            "name": "校园"
+          }
+        ]
+      },
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述",
+        "tags": [
+          {
+            "id": 1,
+            "name": "穿越"
+          },
+          {
+            "id": 2,
+            "name": "爱情"
+          },
+          {
+            "id": 3,
+            "name": "校园"
+          }
+        ]
+      }
+    ]
+  },
   "userProfile": {
     "status": "success",
     "timestamp": 1678849873,
@@ -294,5 +276,26 @@
       "birthday": -1,
       "vip_expire": -1
     }
+  },
+  "getHistoryList": {
+    "status": "success",
+    "timestamp": 1678849873,
+    "data": [
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述"
+      },
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述"
+      },
+      {
+        "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+        "title": "王牌校草",
+        "description": "描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述"
+      }
+    ]
   }
 }
