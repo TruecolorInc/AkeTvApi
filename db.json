@@ -93,23 +93,25 @@
       },
       {
         "type": "one_big_card",
-        "data": [
-          {
-            "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-            "title": "王牌校草",
-            "action_url": ""
-          },
-          {
-            "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-            "title": "王牌校草",
-            "action_url": ""
-          },
-          {
-            "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-            "title": "王牌校草",
-            "action_url": ""
-          }
-        ]
+        "data": {
+          "items": [
+            {
+              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+              "title": "王牌校草",
+              "action_url": ""
+            },
+            {
+              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+              "title": "王牌校草",
+              "action_url": ""
+            },
+            {
+              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
+              "title": "王牌校草",
+              "action_url": ""
+            }
+          ]
+        }
       }
     ]
   },
