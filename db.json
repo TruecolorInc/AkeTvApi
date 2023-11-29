@@ -88,11 +88,11 @@
       {
         "type": "title_card",
         "data": {
-          "title": "甜宠来袭"
+          "title": "今日更新"
         }
       },
       {
-        "type": "three_card",
+        "type": "horizontal_card",
         "data": {
           "items": [
             {
