@@ -96,19 +96,28 @@
         "data": {
           "items": [
             {
+              "is_vip": false,
+              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
               "title": "许少的隐婚甜妻 第一季",
               "action_url": "\/detail\/11",
+              "track_data": "homepage_1_column_5_item_21"
             },
             {
+              "is_vip": false,
+              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
               "title": "先婚后爱 第二季",
               "action_url": "\/detail\/12",
+              "track_data": "homepage_1_column_5_item_22"
             },
             {
+              "is_vip": false,
+              "update_str": "更新至60集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/14\/4f243d24a47d8e8baa766426726b406f.jpeg",
               "title": "捡个男神做老公1",
               "action_url": "\/detail\/14",
+              "track_data": "homepage_1_column_5_item_23"
             }
           ]
         }
