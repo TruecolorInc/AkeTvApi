@@ -1,36 +1,41 @@
 {
   "getHomeList": {
     "status": "success",
-    "timestamp": 1678849873,
+    "timestamp": 1701139710,
     "data": [
       {
         "type": "banner_card",
         "data": {
           "items": [
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/homepage\/1\/645ef0a43562d35e089ea898e17045f6.jpeg",
+              "title": "她的微笑像颗糖",
+              "action_url": "\/detail\/1",
+              "track_data": "homepage_1_column_1_item_1"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/f795b08054284acb8cb445a89079c1ca.jpg?format=webp",
-              "title": "蓝色鲤鱼湖",
-              "action_url": ""
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/2\/1a202e0622bde9f81fe5ac024a802156.jpeg",
+              "title": "初恋是榴莲先生",
+              "action_url": "\/detail\/2",
+              "track_data": "homepage_1_column_1_item_2"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/b36111c553ecc13621643b5000978d01.jpg?format=webp",
-              "title": "妖神记",
-              "action_url": ""
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/3\/c2023e670afa7184ef9bc2b5cd86d497.jpeg",
+              "title": "迟到的初恋",
+              "action_url": "\/detail\/3",
+              "track_data": "homepage_1_column_1_item_16"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/7ba7e1b92f0dec9dffbaca1389700edf.jpeg?format=webp",
-              "title": "一品嫡女",
-              "action_url": ""
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/4\/3ccefeec2fa029776a2ee070f645750b.jpeg",
+              "title": "初恋是CV大神",
+              "action_url": "\/detail\/4",
+              "track_data": "homepage_1_column_1_item_17"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/b4ef54b229a97f00590265f08ee3218d.jpg?format=webp",
-              "title": "穿越修仙路",
-              "action_url": ""
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/5\/1cf5f48bcb96ac818b38dae5e9af0042.jpeg",
+              "title": "惹上首席boss 第一季",
+              "action_url": "\/detail\/5",
+              "track_data": "homepage_1_column_1_item_18"
             }
           ]
         }
@@ -46,24 +51,36 @@
         "data": {
           "items": [
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/6\/e7d0472a2dc7a431ea3414644cda1389.jpeg",
+              "title": "隔壁男神賴上我",
+              "action_url": "\/detail\/6",
+              "track_data": "homepage_1_column_3_item_3"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/7\/e3cc6204007795dff40224ede0f72a1f.jpeg",
+              "title": "一笑倾城",
+              "action_url": "\/detail\/7",
+              "track_data": "homepage_1_column_3_item_4"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": true,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/21\/7b5485fedecb2f405906a5b4723490d7.jpeg",
+              "title": "皇叔适可而止 第二季",
+              "action_url": "\/detail\/21",
+              "track_data": "homepage_1_column_3_item_29"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至31集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/22\/68b46250e6baf6ed8bf11063324e8d3d.jpeg",
+              "title": "原来是花男城啊 第二季",
+              "action_url": "\/detail\/22",
+              "track_data": "homepage_1_column_3_item_30"
             }
           ]
         }
@@ -71,7 +88,7 @@
       {
         "type": "title_card",
         "data": {
-          "title": "穿越修仙路"
+          "title": "甜宠来袭"
         }
       },
       {
@@ -79,36 +96,36 @@
         "data": {
           "items": [
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
+              "title": "许少的隐婚甜妻 第一季",
+              "action_url": "\/detail\/11",
+              "track_data": "homepage_1_column_5_item_21"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
+              "title": "先婚后爱 第二季",
+              "action_url": "\/detail\/12",
+              "track_data": "homepage_1_column_5_item_22"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
-            },
-            {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
-            },
-            {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
-            },
-            {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至60集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/14\/4f243d24a47d8e8baa766426726b406f.jpeg",
+              "title": "捡个男神做老公",
+              "action_url": "\/detail\/14",
+              "track_data": "homepage_1_column_5_item_23"
             }
           ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "高糖预警"
         }
       },
       {
@@ -116,19 +133,49 @@
         "data": {
           "items": [
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/10\/ae32e63eba6dc97910e57c6fe3ca7092.jpeg",
+              "title": "拜托快结婚吧 第一季",
+              "action_url": "\/detail\/10",
+              "track_data": "homepage_1_column_2_item_20"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "余生和你"
+        }
+      },
+      {
+        "type": "three_card",
+        "data": {
+          "items": [
+            {
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/15\/79f0e230c56ae20c83cd1358c26d5fc5.jpeg",
+              "title": "江先生的青春小姐",
+              "action_url": "\/detail\/15",
+              "track_data": "homepage_1_column_17_item_24"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": true,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
+              "title": "皇叔适可而止 第一季",
+              "action_url": "\/detail\/16",
+              "track_data": "homepage_1_column_17_item_25"
             },
             {
-              "image_url": "http://chinanetcenter.pic.akemanga.com/images/project/cartoons/040ad3c61da33e83e98a2ada7810f3e5.jpg?format=webp",
-              "title": "王牌校草",
-              "action_url": ""
+              "is_vip": false,
+              "update_str": "更新至30集",
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/17\/e8f173b7587d625e79fc3dda00b57720.jpeg",
+              "title": "窈窕君子，女将好逑",
+              "action_url": "\/detail\/17",
+              "track_data": "homepage_1_column_17_item_26"
             }
           ]
         }
