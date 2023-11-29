@@ -150,7 +150,7 @@
         }
       },
       {
-        "type": "three_card",
+        "type": "two_vertical_card",
         "data": {
           "items": [
             {
