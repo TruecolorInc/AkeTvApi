@@ -96,28 +96,19 @@
         "data": {
           "items": [
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
               "title": "许少的隐婚甜妻 第一季",
-              "action_url": "\/detail\/11",
-              "track_data": "homepage_1_column_5_item_21"
+              "action_url": "\/detail\/11"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
               "title": "先婚后爱 第二季",
-              "action_url": "\/detail\/12",
-              "track_data": "homepage_1_column_5_item_22"
+              "action_url": "\/detail\/12"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至60集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/14\/4f243d24a47d8e8baa766426726b406f.jpeg",
               "title": "捡个男神做老公1",
-              "action_url": "\/detail\/14",
-              "track_data": "homepage_1_column_5_item_23"
+              "action_url": "\/detail\/14"
             }
           ]
         }
@@ -154,28 +145,19 @@
         "data": {
           "items": [
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/15\/79f0e230c56ae20c83cd1358c26d5fc5.jpeg",
               "title": "江先生的青春小姐",
-              "action_url": "\/detail\/15",
-              "track_data": "homepage_1_column_17_item_24"
+              "action_url": "\/detail\/15"
             },
             {
-              "is_vip": true,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
               "title": "皇叔适可而止 第一季",
-              "action_url": "\/detail\/16",
-              "track_data": "homepage_1_column_17_item_25"
+              "action_url": "\/detail\/16"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/17\/e8f173b7587d625e79fc3dda00b57720.jpeg",
               "title": "窈窕君子，女将好逑",
-              "action_url": "\/detail\/17",
-              "track_data": "homepage_1_column_17_item_26"
+              "action_url": "\/detail\/17"
             },
             {
               "is_vip": false,
@@ -186,20 +168,14 @@
               "track_data": "homepage_1_column_17_item_24"
             },
             {
-              "is_vip": true,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
               "title": "皇叔适可而止 第一季",
-              "action_url": "\/detail\/16",
-              "track_data": "homepage_1_column_17_item_25"
+              "action_url": "\/detail\/16"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/17\/e8f173b7587d625e79fc3dda00b57720.jpeg",
               "title": "窈窕君子，女将好逑",
-              "action_url": "\/detail\/17",
-              "track_data": "homepage_1_column_17_item_26"
+              "action_url": "\/detail\/17"
             }
           ]
         }
