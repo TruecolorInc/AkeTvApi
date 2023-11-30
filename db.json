@@ -100,6 +100,29 @@
       {
         "type": "title_card",
         "data": {
+          "title": "最近更新"
+        }
+      },   
+      {
+        "type": "left_image_right_text_card",
+        "data": {
+          "items": [
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
+              "title": "许少的隐婚甜妻 第一季",
+              "action_url": "\/detail\/11"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
+              "title": "先婚后爱 第二季",
+              "action_url": "\/detail\/12"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
           "title": "观看最多"
         }
       },
