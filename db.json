@@ -116,27 +116,6 @@
       {
         "type": "title_card",
         "data": {
-          "title": "高糖预警"
-        }
-      },
-      {
-        "type": "one_big_card",
-        "data": {
-          "items": [
-            {
-              "is_vip": false,
-              "update_str": "更新至30集",
-              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/10\/ae32e63eba6dc97910e57c6fe3ca7092.jpeg",
-              "title": "拜托快结婚吧 第一季",
-              "action_url": "\/detail\/10",
-              "track_data": "homepage_1_column_2_item_20"
-            }
-          ]
-        }
-      },
-      {
-        "type": "title_card",
-        "data": {
           "title": "余生和你"
         }
       },
