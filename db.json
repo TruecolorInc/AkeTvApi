@@ -65,22 +65,6 @@
               "title": "一笑倾城",
               "action_url": "\/detail\/7",
               "track_data": "homepage_1_column_3_item_4"
-            },
-            {
-              "is_vip": true,
-              "update_str": "更新至30集",
-              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/21\/7b5485fedecb2f405906a5b4723490d7.jpeg",
-              "title": "皇叔适可而止 第二季",
-              "action_url": "\/detail\/21",
-              "track_data": "homepage_1_column_3_item_29"
-            },
-            {
-              "is_vip": false,
-              "update_str": "更新至31集",
-              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/22\/68b46250e6baf6ed8bf11063324e8d3d.jpeg",
-              "title": "原来是花男城啊 第二季",
-              "action_url": "\/detail\/22",
-              "track_data": "homepage_1_column_3_item_30"
             }
           ]
         }
@@ -116,7 +100,7 @@
       {
         "type": "title_card",
         "data": {
-          "title": "余生和你"
+          "title": "观看最多"
         }
       },
       {
