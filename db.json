@@ -10,32 +10,27 @@
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/homepage\/1\/645ef0a43562d35e089ea898e17045f6.jpeg",
               "title": "她的微笑像颗糖",
-              "action_url": "\/detail\/1",
-              "track_data": "homepage_1_column_1_item_1"
+              "action_url": "\/detail\/1"
             },
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/2\/1a202e0622bde9f81fe5ac024a802156.jpeg",
               "title": "初恋是榴莲先生",
-              "action_url": "\/detail\/2",
-              "track_data": "homepage_1_column_1_item_2"
+              "action_url": "\/detail\/2"
             },
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/3\/c2023e670afa7184ef9bc2b5cd86d497.jpeg",
               "title": "迟到的初恋",
-              "action_url": "\/detail\/3",
-              "track_data": "homepage_1_column_1_item_16"
+              "action_url": "\/detail\/3"
             },
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/4\/3ccefeec2fa029776a2ee070f645750b.jpeg",
               "title": "初恋是CV大神",
-              "action_url": "\/detail\/4",
-              "track_data": "homepage_1_column_1_item_17"
+              "action_url": "\/detail\/4"
             },
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/5\/1cf5f48bcb96ac818b38dae5e9af0042.jpeg",
               "title": "惹上首席boss 第一季",
-              "action_url": "\/detail\/5",
-              "track_data": "homepage_1_column_1_item_18"
+              "action_url": "\/detail\/5"
             }
           ]
         }
@@ -51,20 +46,14 @@
         "data": {
           "items": [
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/6\/e7d0472a2dc7a431ea3414644cda1389.jpeg",
               "title": "隔壁男神賴上我",
-              "action_url": "\/detail\/6",
-              "track_data": "homepage_1_column_3_item_3"
+              "action_url": "\/detail\/6"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/7\/e3cc6204007795dff40224ede0f72a1f.jpeg",
               "title": "一笑倾城",
-              "action_url": "\/detail\/7",
-              "track_data": "homepage_1_column_3_item_4"
+              "action_url": "\/detail\/7"
             }
           ]
         }
@@ -150,12 +139,9 @@
               "action_url": "\/detail\/17"
             },
             {
-              "is_vip": false,
-              "update_str": "更新至30集",
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/15\/79f0e230c56ae20c83cd1358c26d5fc5.jpeg",
               "title": "江先生的青春小姐",
-              "action_url": "\/detail\/15",
-              "track_data": "homepage_1_column_17_item_24"
+              "action_url": "\/detail\/15"
             },
             {
               "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
