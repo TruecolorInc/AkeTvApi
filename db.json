@@ -91,7 +91,7 @@
         "data": {
           "title": "最近更新"
         }
-      },   
+      },
       {
         "type": "left_image_right_text_card",
         "data": {
@@ -571,5 +571,31 @@
         "action_url": "\/detail\/4"
       }
     ]
+  },
+  "userLogin": {
+    "status": "success",
+    "timestamp": 1701660012,
+    "data": {
+      "token": "one test token",
+      "id": 66666666,
+      "name": "测试Name",
+      "image": "",
+      "bind_account": 0,
+      "coins": 200,
+      "bonus": 300
+    }
+  },
+  "userInfoRefresh": {
+    "status": "success",
+    "timestamp": 1701660012,
+    "data": {
+      "token": "one test token",
+      "id": 77777777,
+      "name": "测试Name",
+      "image": "",
+      "bind_account": 0,
+      "coins": 200,
+      "bonus": 300
+    }
   }
 }
