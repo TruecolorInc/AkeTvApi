@@ -589,7 +589,6 @@
     "status": "success",
     "timestamp": 1701660012,
     "data": {
-      "token": "one test token",
       "id": 77777777,
       "name": "测试Name",
       "image": "",
@@ -597,5 +596,47 @@
       "coins": 200,
       "bonus": 300
     }
+  },
+  "userRechargeRecord": {
+    "status": "success",
+    "timestamp": 1701660012,
+    "data": [
+      {
+        "title": "充值Coins",
+        "price": "$9.9",
+        "value": "+2500",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "充值Coins",
+        "price": "$19.9",
+        "value": "+5000",
+        "time": "2023-12-04"
+      },
+      {
+        "title": "充值Coins",
+        "price": "$19.9",
+        "value": "+5000",
+        "time": "2023-12-03"
+      },
+      {
+        "title": "充值Coins",
+        "price": "$9.9",
+        "value": "+2500",
+        "time": "2023-12-03"
+      },
+      {
+        "title": "充值Coins",
+        "price": "$9.9",
+        "value": "+2500",
+        "time": "2023-12-02"
+      },
+      {
+        "title": "充值Coins",
+        "price": "$9.9",
+        "value": "+2500",
+        "time": "2023-12-01"
+      }
+    ]
   }
 }
