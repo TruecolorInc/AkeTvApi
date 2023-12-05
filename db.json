@@ -640,5 +640,53 @@
         "time": "2023-12-01"
       }
     ]
+  },
+  "episodeUnlockRecord": {
+    "status": "success",
+    "timestamp": 1701660012,
+    "data": [
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.31",
+        "value": "-100 coins",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.30",
+        "value": "-100 coins",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.29",
+        "value": "-100 Bonuses",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.28",
+        "value": "-100 coins",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.27",
+        "value": "-100 coins",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.26",
+        "value": "-100 Bonuses",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "解锁-武道至尊",
+        "sub_title": "EP.25",
+        "value": "-100 Bonuses",
+        "time": "2023-12-05"
+      }
+    ]
   }
 }
