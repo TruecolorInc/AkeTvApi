@@ -688,5 +688,46 @@
         "time": "2023-12-05"
       }
     ]
+  },
+  "bonusRecord": {
+    "status": "success",
+    "timestamp": 1701660012,
+    "data": [
+      {
+        "title": "签到奖励 Bonus",
+        "value": "+100",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "广告奖励 Bonus",
+        "value": "+200 ",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "广告奖励 Bonus",
+        "value": "+200 ",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "签到奖励 Bonus",
+        "value": "+100",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "充值奖励 Bonus",
+        "value": "+2500",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "签到奖励 Bonus",
+        "value": "+100",
+        "time": "2023-12-05"
+      },
+      {
+        "title": "充值奖励 Bonus",
+        "value": "+2500",
+        "time": "2023-12-05"
+      }
+    ]
   }
 }
