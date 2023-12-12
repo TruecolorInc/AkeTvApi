@@ -11,6 +11,147 @@
               "image_url": "http://aketv.akemanga.com/images/project/simple_configurations/f91dbf4200b43ca0742a4be0accccc5e.jpg",
               "title": "她的微笑像颗糖",
               "action_url": "\/detail\/1"
+            },
+            {
+              "image_url": "http://aketv.akemanga.com/images/project/simple_configurations/f91dbf4200b43ca0742a4be0accccc5e.jpg",
+              "title": "初恋是榴莲先生",
+              "action_url": "\/detail\/2"
+            },
+            {
+              "image_url": "http://aketv.akemanga.com/images/project/simple_configurations/f91dbf4200b43ca0742a4be0accccc5e.jpg",
+              "title": "迟到的初恋",
+              "action_url": "\/detail\/3"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/4\/3ccefeec2fa029776a2ee070f645750b.jpeg",
+              "title": "初恋是CV大神",
+              "action_url": "\/detail\/4"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/5\/1cf5f48bcb96ac818b38dae5e9af0042.jpeg",
+              "title": "惹上首席boss 第一季",
+              "action_url": "\/detail\/5"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "编辑推荐"
+        }
+      },
+      {
+        "type": "two_card",
+        "data": {
+          "items": [
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/6\/e7d0472a2dc7a431ea3414644cda1389.jpeg",
+              "title": "隔壁男神賴上我",
+              "action_url": "\/detail\/6"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/7\/e3cc6204007795dff40224ede0f72a1f.jpeg",
+              "title": "一笑倾城",
+              "action_url": "\/detail\/7"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "今日更新"
+        }
+      },
+      {
+        "type": "horizontal_card",
+        "data": {
+          "items": [
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
+              "title": "许少的隐婚甜妻 第一季",
+              "action_url": "\/detail\/11"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
+              "title": "先婚后爱 第二季",
+              "action_url": "\/detail\/12"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/14\/4f243d24a47d8e8baa766426726b406f.jpeg",
+              "title": "捡个男神做老公1",
+              "action_url": "\/detail\/14"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "最近更新"
+        }
+      },
+      {
+        "type": "left_image_right_text_card",
+        "data": {
+          "items": [
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/11\/42cd86cbad981f8a2617cf1c336e4e46.jpeg",
+              "title": "许少的隐婚甜妻 第一季",
+              "action_url": "\/detail\/11",
+              "update_str": "EP.25",
+              "description": "根据当下市场环境，短剧为主流形态，现结合公司自有优质内容，致力打造一款全球化短剧 APP，将阿柯内容弘扬海外跟紧潮流，破而后立"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/12\/1b97a41d2d5ce197e178265beb5ccc24.jpeg",
+              "title": "先婚后爱 第二季",
+              "action_url": "\/detail\/12",
+              "update_str": "EP.26",
+              "description": "根据当下市场环境，短剧为主流形态，现结合公司自有优质内容，致力打造一款全球化短剧 APP，将阿柯内容弘扬海外跟紧潮流，破而后立"
+            }
+          ]
+        }
+      },
+      {
+        "type": "title_card",
+        "data": {
+          "title": "观看最多"
+        }
+      },
+      {
+        "type": "two_vertical_card",
+        "data": {
+          "items": [
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/15\/79f0e230c56ae20c83cd1358c26d5fc5.jpeg",
+              "title": "江先生的青春小姐",
+              "action_url": "\/detail\/15"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
+              "title": "皇叔适可而止 第一季",
+              "action_url": "\/detail\/16"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/17\/e8f173b7587d625e79fc3dda00b57720.jpeg",
+              "title": "窈窕君子，女将好逑",
+              "action_url": "\/detail\/17"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/15\/79f0e230c56ae20c83cd1358c26d5fc5.jpeg",
+              "title": "江先生的青春小姐",
+              "action_url": "\/detail\/15"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/16\/471e11ba49332aa5d00cc9056383c7a7.jpeg",
+              "title": "皇叔适可而止 第一季",
+              "action_url": "\/detail\/16"
+            },
+            {
+              "image_url": "https:\/\/aketv.akemanga.com\/images\/project\/video\/17\/e8f173b7587d625e79fc3dda00b57720.jpeg",
+              "title": "窈窕君子，女将好逑",
+              "action_url": "\/detail\/17"
             }
           ]
         }
